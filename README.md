@@ -1,2 +1,2 @@
-# newsletter
+# newsletters
 Django application for sending newsletters
